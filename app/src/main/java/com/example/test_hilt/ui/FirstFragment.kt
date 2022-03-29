@@ -8,7 +8,6 @@ import android.widget.Toast
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
-import com.example.data.entities.Log
 import com.example.test_hilt.R
 import com.example.test_hilt.databinding.FragmentFirstBinding
 import dagger.hilt.android.AndroidEntryPoint
